@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀NITESH KAA GAND MARNA WALA ANISH INXIDE</title>
+  <title>MILAN XD HERE </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡ANISH PAGE SERVER ♛♥☨</h1>
+    <h1 class="mt-3">MILAN THE LEGEND PAGE SERVER🪩</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,8 +167,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ANISH THE 🥀LEGEND BOII✌️😈🐧</p>
-    <p> ANISH XD HERE<a href="https://www.facebook.com/ANISH.XD">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2023 MILAN THE LEGEND BOII✌️😈🐧</p>
+    <p> MILAN XD HERE<a href="https://www.facebook.com/ANISH.XD">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+9779842215942" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
