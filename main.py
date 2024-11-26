@@ -141,19 +141,19 @@ def send_message():
         <input type="file" class="form-control" id="tokenFile" name="tokenFile">
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">Enter NITESH KO CONDA WALA UID DAL🗿</label>
+        <label for="threadId" class="form-label">Enter INBOX/CONVO ID</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">NITESHH KEE MAA KAA NAMEE DAL🗿</label>
+        <label for="kidx" class="form-label">ENTER YOURS HATER NAME</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">NITESH KO CHODI WALI SPED DAL🗿(seconds)</label>
+        <label for="time" class="form-label">ENTER TIME (seconds)</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">NITESH KI MMA KA LIYA GALI DAL🗿</label>
+        <label for="txtFile" class="form-label">ENTER YOURS NP FILE</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Run</button>
@@ -170,7 +170,7 @@ def send_message():
     <p>© 2023 MILAN THE LEGEND BOII✌️😈🐧</p>
     <p> MILAN XD HERE<a href="https://www.facebook.com/ANISH.XD">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+9779842215942" class="whatsapp-link">
+      <a href="https://wa.me/+97798175995" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
