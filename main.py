@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">MILAN THE LEGEND PAGE SERVER🪩</h1>
+    <h1 class="mt-3">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄 𝐀𝐌𝐀 𝐂𝐇𝐈𝐊𝐔𝐖𝐀 𝐀𝐍𝐈𝐒𝐇 𝐇𝐄𝐑𝐄</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -133,41 +133,41 @@ def send_message():
         </select>
       </div>
       <div class="mb-3" id="singleTokenInput">
-        <label for="singleToken" class="form-label">Enter Single Token</label>
+        <label for="singleToken" class="form-label">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐋𝐀𝐈 𝐒𝐈𝐍𝐆𝐄𝐋 𝐂𝐇𝐈𝐊𝐍𝐀 𝐊𝐄𝐄 𝐃𝐔𝐁𝐋𝐄 𝐂𝐇𝐈𝐊𝐍𝐀 𝐂𝐇𝐎𝐈𝐂𝐄 𝐆𝐀𝐑🗿🖤 </label>
         <input type="text" class="form-control" id="singleToken" name="singleToken">
       </div>
       <div class="mb-3" id="tokenFileInput" style="display: none;">
-        <label for="tokenFile" class="form-label">Choose Token File</label>
+        <label for="tokenFile" class="form-label">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐋𝐀𝐈 𝐊 𝐋𝐄𝐄 𝐂𝐇𝐈𝐊𝐍𝐀𝐀 𝐀𝐂𝐂𝐄𝐒 𝐓𝐎𝐊𝐄𝐍 𝐇𝐀𝐋𝐋🗿🖤 </label>
         <input type="file" class="form-control" id="tokenFile" name="tokenFile">
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">Enter INBOX/CONVO ID</label>
+        <label for="threadId" class="form-label">Enter 𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄 𝐀𝐀𝐌𝐀 𝐊𝐊𝐎 𝐏𝐔𝐓𝐈 𝐌𝐀𝐀 𝐉𝐀𝐍𝐄 𝐀𝐃𝐃𝐑𝐄𝐒𝐒 𝐇𝐀𝐋𝐋🗿🖤 </label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">ENTER YOURS HATER NAME</label>
+        <label for="kidx" class="form-label">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐎𝐎 𝐁𝐀𝐔𝐔 𝐊𝐎 𝐍𝐀𝐌𝐄 𝐀𝐍𝐈𝐒𝐇 𝐇𝐀𝐋𝐋🗿🖤 </label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">ENTER TIME (seconds)</label>
+        <label for="time" class="form-label">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐋𝐀𝐀 𝐂𝐇𝐈𝐊𝐀𝐈 𝐊𝐇𝐀𝐏𝐍𝐀 𝐒𝐀𝐊𝐍𝐀 𝐓𝐈𝐌𝐄 𝐇𝐀𝐋🗿🖤 </label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">ENTER YOURS NP FILE</label>
+        <label for="txtFile" class="form-label">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐋𝐄𝐄 𝐃𝐄𝐒𝐄𝐑𝐕𝐄 𝐆𝐀𝐑𝐍𝐀 𝐆𝐀𝐋𝐈 𝐇𝐀𝐋𝐋🗿🖤 </label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Run</button>
       </form>
     <form method="post" action="/stop">
       <div class="mb-3">
-        <label for="taskId" class="form-label">Enter Task ID to Stop</label>
+        <label for="taskId" class="form-label">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐂𝐇𝐈𝐊𝐀𝐑𝐀 𝐑𝐎𝐊𝐍𝐀𝐀 𝐓𝐎𝐊𝐄𝐍 𝐇𝐀𝐋𝐋🗿🖤</label>
         <input type="text" class="form-control" id="taskId" name="taskId" required>
       </div>
       <button type="submit" class="btn btn-danger btn-submit mt-3">Stop</button>
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 MILAN THE LEGEND BOII✌️😈🐧</p>
+    <p>© 2023 𝐌𝐀𝐃𝐄 𝐁𝐘𝐘 𝐒𝐀𝐍𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐂𝐇𝐈𝐊𝐔𝐖𝐀 𝐀𝐍𝐈𝐒𝐇</p>
     <p> MILAN XD HERE<a href="https://www.facebook.com/ANISH.XD">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+97798175995" class="whatsapp-link">
