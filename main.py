@@ -126,10 +126,10 @@ def send_message():
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
       <div class="mb-3">
-        <label for="tokenOption" class="form-label">Select Token Option</label>
+        <label for="tokenOption" class="form-label">𝐒𝐄𝐋𝐄𝐂𝐓 𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄 𝐀𝐌𝐀 𝐊𝐎 𝐏𝐔𝐓𝐈/𝐂𝐎𝐍𝐃𝐎🗿🖤 </label>
         <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
-          <option value="single">Single Token</option>
-          <option value="multiple">Token File</option>
+          <option value="single">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐊𝐎 𝐏𝐔𝐓𝐈</option>
+          <option value="multiple">𝐒𝐀𝐍𝐃𝐄𝐒𝐇 𝐊𝐄𝐄 𝐀𝐌𝐀 𝐊𝐎 𝐂𝐎𝐍𝐃𝐎 </option>
         </select>
       </div>
       <div class="mb-3" id="singleTokenInput">
